@@ -1,0 +1,15 @@
+.App {
+  width: 500px;
+  display: flex;
+  font-family: sans-serif;
+  justify-content: space-between;
+  padding-top: 50px;
+
+  .list {
+    max-width: 250px;
+  }
+
+  .list-group-item {
+    cursor: pointer;
+  }
+}
